@@ -1,0 +1,19 @@
+======================================================================
+SMART CITY COMPLAINT ANALYSIS - BUSINESS INSIGHTS
+======================================================================
+
+KEY FINDINGS:
+--------------------------------------------------
+1. Most common complaint: Garbage Collection (1355 complaints)
+2. Problem zone: West Zone (1223.0 complaints)
+3. Slowest department: Traffic Department (15.6 days avg)
+4. Satisfaction-resolve correlation: -0.75
+5. Resolution rate: 100.0%
+
+RECOMMENDATIONS:
+--------------------------------------------------
+1. IMMEDIATE: Deploy additional resources to address Garbage complaints
+2. URGENT: Investigate West Zone infrastructure issues
+3. PROCESS: Audit Roads Department workflow for efficiency gains
+4. POLICY: Implement SLA of 3 days for High priority complaints
+5. TECHNOLOGY: Deploy automated complaint classification system
